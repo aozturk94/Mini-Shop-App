@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jxGIxOcpoAEH3ovyiQ3wzwCiYl/5AzeaP8DkoHUUXTzFZTTDt0vaMqWwHKjcgv25ipn56qpqBNdNmIhiWdHC8w==",
+  "dgSpecHash": "hRtisoA+K5xPhhj6GTHa7vbwTqQLXMWcEKvSxZ5sN+0jp837rnGUgi9XH8i8reujlJovqxKbybun7guklZa8sQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\WEB7_Project\\Entity Framework\\MiniShopApp\\MiniShopApp.WebUI\\MiniShopApp.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Mini-Shop-App\\MiniShopApp\\MiniShopApp.WebUI\\MiniShopApp.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\castle.core\\5.0.0\\castle.core.5.0.0.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

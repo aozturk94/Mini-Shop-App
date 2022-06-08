@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CSxmcQ2/WPDMJq/Nmk3paC7A11TOlY+FNFS3KXFqmWWIPWviq8Q0fhg5cZUXYuen/w6tZrIS4/Rx3UxgpN2ejQ==",
+  "dgSpecHash": "KRHOQn0imdplzkw/lCwc2ivoTOwIDFLvS2FQkMQPTIQ5bZ8T9dhRMiyX/cbmV2jxUHHBnm5Qs3Iecpy8aGDJ1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\WEB7_Project\\Entity Framework\\MiniShopApp\\MiniShopApp.Entity\\MiniShopApp.Entity.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Mini-Shop-App\\MiniShopApp\\MiniShopApp.Entity\\MiniShopApp.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
