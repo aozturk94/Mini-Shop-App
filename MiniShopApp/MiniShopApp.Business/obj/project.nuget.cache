@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GUzE8yNcQf9JXfS8JOyMDzjbCC+QBIWDnwSMv/muGFv9xA4rfwONvEnnhUkgLVe5zw4CNBXE6J06j+1VuKkmZA==",
+  "dgSpecHash": "x03x3XU1r7luOwAnFWdfXakNxnHNNlany2yGFb3g7RtwylLBBrQuN3NHq+Ev6ivwZlUcE31UICjghuaXz3L+/Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\Mini-Shop-App\\MiniShopApp\\MiniShopApp.Business\\MiniShopApp.Business.csproj",
+  "projectFilePath": "C:\\Users\\Wissen\\Desktop\\WEB7_Project\\Entity Framework\\MiniShopApp\\MiniShopApp.Business\\MiniShopApp.Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
     "C:\\Users\\Wissen\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.16\\microsoft.data.sqlite.core.5.0.16.nupkg.sha512",

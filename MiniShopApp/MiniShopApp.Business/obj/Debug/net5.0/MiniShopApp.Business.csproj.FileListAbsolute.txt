@@ -14,20 +14,3 @@ C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Bu
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.dll
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\ref\MiniShopApp.Business.dll
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.pdb
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\bin\Debug\net5.0\MiniShopApp.Business.deps.json
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\bin\Debug\net5.0\MiniShopApp.Business.dll
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\bin\Debug\net5.0\ref\MiniShopApp.Business.dll
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\bin\Debug\net5.0\MiniShopApp.Business.pdb
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\bin\Debug\net5.0\MiniShopApp.Data.dll
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\bin\Debug\net5.0\MiniShopApp.Entity.dll
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\bin\Debug\net5.0\MiniShopApp.Data.pdb
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\bin\Debug\net5.0\MiniShopApp.Entity.pdb
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.csproj.AssemblyReference.cache
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.AssemblyInfoInputs.cache
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.AssemblyInfo.cs
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.csproj.CoreCompileInputs.cache
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.dll
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\ref\MiniShopApp.Business.dll
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.pdb
-C:\Users\Wissen\Desktop\Mini-Shop-App\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.csproj.CopyComplete
