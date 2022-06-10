@@ -107,3 +107,4 @@ C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.We
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.WebUI\obj\Debug\net5.0\Razor\Views\Card\Success.cshtml.g.cs
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.WebUI\bin\Debug\net5.0\MiniShopApp.Core.dll
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.WebUI\bin\Debug\net5.0\MiniShopApp.Core.pdb
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.WebUI\obj\Debug\net5.0\Razor\Views\Card\Orders.cshtml.g.cs
