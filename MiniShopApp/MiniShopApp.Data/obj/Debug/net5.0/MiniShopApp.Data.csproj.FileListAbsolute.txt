@@ -1,0 +1,35 @@
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.deps.json
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.runtimeconfig.json
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.runtimeconfig.dev.json
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.dll
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\ref\MiniShopApp.Data.dll
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.pdb
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Entity.dll
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Entity.pdb
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.csproj.CopyComplete
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.dll
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\ref\MiniShopApp.Data.dll
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.pdb
+C:\Users\Wissen\Desktop\Web_7_Projects\Week_14\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.genruntimeconfig.cache
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.deps.json
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.runtimeconfig.json
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.runtimeconfig.dev.json
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.dll
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\ref\MiniShopApp.Data.dll
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Data.pdb
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Entity.dll
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\bin\Debug\net5.0\MiniShopApp.Entity.pdb
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.csproj.AssemblyReference.cache
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.AssemblyInfoInputs.cache
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.AssemblyInfo.cs
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.dll
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\ref\MiniShopApp.Data.dll
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.pdb
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Data\obj\Debug\net5.0\MiniShopApp.Data.genruntimeconfig.cache
