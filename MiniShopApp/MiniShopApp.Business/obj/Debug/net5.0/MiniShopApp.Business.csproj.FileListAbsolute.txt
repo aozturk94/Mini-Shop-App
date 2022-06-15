@@ -31,3 +31,4 @@ C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Bu
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.dll
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\ref\MiniShopApp.Business.dll
 C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.pdb
+C:\Users\Wissen\Desktop\WEB7_Project\Entity Framework\MiniShopApp\MiniShopApp.Business\obj\Debug\net5.0\MiniShopApp.Business.csproj.CopyComplete
